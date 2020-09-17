@@ -1,0 +1,14 @@
+<?php
+	require_once('ddstore_fns.php');
+	require_once('cart/book_fns.php');
+	require_once('cart/calculate_fns.php');
+	/*require_once('cart/.php');
+	require_once('cart/.php');
+	require_once('cart/.php');
+	require_once('cart/.php');
+	require_once('cart/.php');
+	require_once('cart/.php');
+	require_once('cart/.php');
+	require_once('cart/.php');
+	require_once('cart/.php');*/
+?>
